@@ -15,3 +15,12 @@ When exploring models, we attempted several approaches:
   - Averaged data, full feature set
   - Averaged data, restricted feature set
   - Averaged data, predicting tournament wins
+
+## Deployment
+Step 1: Choose your IDE of choice for Jupyter Notebook (PyCharm, VS Code, JupyterLab, Amazon Sagemaker, etc)
+
+Step 2: Download and save into a folder the project_march_madness.ipynb file and data folder from the repository
+
+Step 3: Unzip the MMasseyOrdinals.csv.zip file from the data folder
+
+Step 4: Run the notebook
